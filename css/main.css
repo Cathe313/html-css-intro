@@ -13,7 +13,7 @@ section {
         or even class="some-other-class technologies some-third-class"
 */
 .technologies {
-    background-color: aliceblue;
+    background-color: cyanblue;
 }
 .schedule {
     background-color: tomato;
@@ -34,7 +34,7 @@ nav ul {
 }
 nav li {
     display: inline-block;
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 5px;
     margin-left: 10px;
 }
